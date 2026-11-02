@@ -3,6 +3,28 @@
 A clean, profile-based setup kit for friends trying Pop!_OS. It is designed for a
 fresh Pop!_OS installation, not a clone of Eric's machine.
 
+## New To Linux? Use An AI
+
+1. Install Pop!_OS normally from its installer USB.
+2. Connect to Wi-Fi or Ethernet.
+3. Open an AI assistant on any device and give it this link:
+
+```text
+https://github.com/erichfeinstein/pop-quickstart/blob/main/SETUP_WITH_AI.md
+```
+
+4. Paste this message:
+
+```text
+I am new to Linux and have a fresh Pop!_OS install. Please set up this
+quickstart kit for me. Read the linked AI setup guide first, explain things in
+plain English, and ask before any command that uses sudo.
+```
+
+The AI will ask whether you want gaming, programming, and (only for NVIDIA
+hardware) screen recording. It guides the installation; you type your own Linux,
+Steam, and Discord passwords directly when prompted.
+
 ## Install
 
 ```bash
@@ -20,6 +42,9 @@ Multiple profiles may be combined:
 The installer explains what it will install and asks before using `sudo`. It is
 safe to re-run. It never copies credentials, browser data, game files, Discord
 tokens, SSH keys, personal settings, or hardware-specific system configuration.
+
+If you are comfortable using a terminal, use the commands above directly instead
+of the AI guide.
 
 ## Profiles
 
