@@ -5,7 +5,9 @@ fresh Pop!_OS installation, not a clone of Eric's machine.
 
 ## New To Linux? Use An AI
 
-1. Install Pop!_OS normally from its installer USB.
+1. Download the Pop!_OS installer for their GPU: choose the **NVIDIA** download
+   for NVIDIA graphics; choose the normal **Intel/AMD** download otherwise. Install
+   Pop!_OS normally from that USB.
 2. Connect to Wi-Fi or Ethernet.
 3. Open an AI assistant on any device and give it this link:
 

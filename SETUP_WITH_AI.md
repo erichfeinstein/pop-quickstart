@@ -7,7 +7,8 @@ command does before asking the user to run it.
 ## Your Job
 
 1. Confirm they have finished the stock Pop!_OS installer and are connected to
-   Wi-Fi or Ethernet.
+   Wi-Fi or Ethernet. For future installs, NVIDIA hardware should use Pop!_OS's
+   NVIDIA installer download; Intel/AMD graphics should use the normal download.
 2. Ask only what you need to know:
    - Is this mainly for gaming, programming, or both?
    - Do they have an NVIDIA GPU? If unsure, detect it with `lspci`.
