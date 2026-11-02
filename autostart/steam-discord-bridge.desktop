@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Steam Discord Activity Bridge
+Comment=Publish Steam and Proton games through Discord Rich Presence
+Exec=%h/.local/bin/steam-discord-bridge
+Terminal=false
+X-GNOME-Autostart-enabled=true
